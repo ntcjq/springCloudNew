@@ -1,0 +1,10 @@
+eureka-client/.mvn/wrapper/maven-wrapper.jar
+eureka-client/.mvn/wrapper/maven-wrapper.properties
+eureka-server/.mvn/wrapper/maven-wrapper.jar
+eureka-server/.mvn/wrapper/maven-wrapper.properties
+service-feign/.mvn/wrapper/maven-wrapper.jar
+service-feign/.mvn/wrapper/maven-wrapper.properties
+service-ribbon/.mvn/wrapper/maven-wrapper.jar
+service-ribbon/.mvn/wrapper/maven-wrapper.properties
+service-zuul/.mvn/wrapper/maven-wrapper.jar
+service-zuul/.mvn/wrapper/maven-wrapper.properties
