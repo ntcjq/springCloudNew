@@ -8,3 +8,5 @@ service-ribbon/.mvn/wrapper/maven-wrapper.jar
 service-ribbon/.mvn/wrapper/maven-wrapper.properties
 service-zuul/.mvn/wrapper/maven-wrapper.jar
 service-zuul/.mvn/wrapper/maven-wrapper.properties
+config-client/.mvn/wrapper/maven-wrapper.jar
+config-client/.mvn/wrapper/maven-wrapper.properties
